@@ -1,0 +1,2 @@
+spring.application.name=SDP
+server.port=8090
