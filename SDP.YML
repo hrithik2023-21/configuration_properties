@@ -1,2 +1,3 @@
 spring.application.name=SDP
 server.port=8090
+msg: Welcome to SDP Microservice from Config Server
